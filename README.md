@@ -7,5 +7,5 @@ Currently working as software developer at IBC in Ministry Education of Brazil's
 - 🌱 Gardening when offline
 - ❤️ My family is everything
 
-> *Compare yourself to who you were yesterday. Not to who someone else is today
+> *Compare yourself to who you were yesterday. Not to who someone else is today <br />
 > J. Peterson*
