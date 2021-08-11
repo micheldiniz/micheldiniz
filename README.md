@@ -8,4 +8,4 @@ Currently working as software developer at IBC in Ministry Education of Brazil's
 - ❤️ My family is everything
 
 > *Compare yourself to who you were yesterday. Not to who someone else is today <br />
->                                                                  J. Peterson*
+> J. Peterson*
