@@ -1,6 +1,6 @@
 # Hello There!
 **I'm Michel!**
-Currently working as software developer at IBC in Ministry Education of Brazil's Federal Government.
+Currently working as software developer at IBC in Ministry of Education in Brazil's Federal Government.
 
 - 👨‍💻 Managing and developing systems in python and java!
 - 📖 Studying Typescript and Angular currently
