@@ -8,18 +8,6 @@ Currently working as software developer at IBC in Ministry of Education in Brazi
 - :four_leaf_clover: Gardening when offline
 - :heart: My family is everything
 
-## :dart: 2023 goals 
-- [ ] Java Fundamentals
-- [ ] Learn advanced git
-- [ ] Read Efective Java book
-- [ ] Flip-city Project
-- [ ] Read Regular Expression book
-- [ ] Write your blog
-- [ ] Create own website
-- [ ] Try getting the Java OCA
-- [ ] Angular and typescript courses
-- [ ] Review Math topics
-
 
 > *Compare yourself to who you were yesterday. Not to who someone else is today <br />
 > J. Peterson*
