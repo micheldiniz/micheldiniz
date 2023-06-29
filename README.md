@@ -2,9 +2,9 @@
 **I'm Michel!**
 Currently working as software developer at IBC in Ministry of Education in Brazil's Federal Government.
 
-- :man_technologist: Managing and developing systems in python and java!
+- :man_technologist: Managing systems in python and java!
 - :books: Studying java fundamentals currently
-- :open_book: reading O Fantástico Mundo dos Números - Ian Stewart
+- :open_book: reading Submissão - michel houellebecq
 - :four_leaf_clover: Gardening when offline
 - :heart: My family is everything
 
